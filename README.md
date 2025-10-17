@@ -35,10 +35,10 @@ Một số phần nội dung được hỗ trợ bởi:
 ## Phân công:
 - 1.1: Tiến
 - 1.2 Toàn, Trân, Tiến, Triết
--2.1: Toàn
--2.2: Trân
--3.1: Triết
--3.2: Toàn, Trân, Tiến, Triết
+- 2.1: Toàn
+- 2.2: Trân
+- 3.1: Triết
+- 3.2: Toàn, Trân, Tiến, Triết
 ---
 ## 🔗 Link chia sẻ
 - Repository GitHub:
